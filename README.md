@@ -1,2 +1,1 @@
 # improved-lamp
-improved-lamp
